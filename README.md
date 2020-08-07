@@ -1,9 +1,9 @@
 ### Hi I am Pankaj 👋
 
 
-- 🔭 I’m currently working on ...Nidavellir
-- 🌱 I’m currently learning ...How to create my own Stormbreaker
-- 💬 Ask me about ...Anything
+- 🔭 I’m currently working at: Nidavellir
+- 🌱 I’m currently learning: How to create my own Stormbreaker
+- 💬 Ask me about: Anything
 - 📫 How to reach me: ..............................................
-- 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...I am a Human & have two legs, hands, eyes & whatever organs you have.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am a Human & have two legs, hands, eyes & whatever organs you have.
