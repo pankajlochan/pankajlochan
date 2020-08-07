@@ -6,4 +6,4 @@
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ..............................................
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...I am a Human & have two legs, hands, eyes & whatever organ you have.
+- ⚡ Fun fact: ...I am a Human & have two legs, hands, eyes & whatever organs you have.
