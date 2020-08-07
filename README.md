@@ -8,4 +8,4 @@
 - 😄 Pronouns: He/Him
 - 🎶 Music is in my heart
 - ✌  Always Trying Something New & Making mistakes & trying to make someone happy everyday.
-- ⚡ Fun fact: I am a Human & have two legs, hands, eyes & whatever organs you have.
+- ⚡ Fun fact: I am a Human & have two legs, hands, eyes & whatever organs you have (and Yes I look handsome like you).
