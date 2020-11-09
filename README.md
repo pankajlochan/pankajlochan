@@ -54,6 +54,6 @@ My name is Pankaj, I'm a Student focusing on Javascript and using MERN stack.
 
 ### Get in touch with me...
 
-[<img src='https://image.flaticon.com/icons/svg/2965/2965306.svg' width='32' title='Email Me!'>](mailto://lochanplp@rediffmail.com)
+[<img src='https://image.flaticon.com/icons/svg/2965/2965306.svg' width='32' title='Email Me!'>](mailto://pankajlochanpanda@outlook.com)
 [<img src='https://image.flaticon.com/icons/svg/1409/1409937.svg' width='32' title='DM Me!'>](https://twitter.com/pankaj_plp)
 
