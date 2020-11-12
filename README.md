@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajlochan&layout=compact&card_width=445)](https://github.com/pankajlochan/github-readme-stats)
 
-My name is Pankaj, I'm a Student & a front-end dev focusing on Javascript and using MERN stack.
+My name is Pankaj, I'm a Student & front-end dev focusing on Javascript and using MERN stack.
 
 - 🔭 I’m currently working on something so much cool :wink:
 - 🌱 I’m currently learning React, Redux
