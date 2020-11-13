@@ -4,7 +4,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pankajlochan&show_icons=true" alt="pankajlochan" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajlochan&layout=compact" alt="pankajlochan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajlochan&layout=compact" alt="pankajlochan" /></p>
 
 My name is Pankaj, I'm a Student & front-end dev focusing on Javascript and using MERN stack.
 
