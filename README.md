@@ -1,8 +1,10 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Pankajlochan Panda</h1>
 
-[![Pankaj's github stats](https://github-readme-stats.vercel.app/api?username=pankajlochan&show_icons=true&theme=radical&hide=stars)](https://github.com/pankajlochan/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajlochan" alt="pankajlochan" /> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajlochan&layout=compact&card_width=445)](https://github.com/pankajlochan/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pankajlochan&show_icons=true" alt="pankajlochan" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajlochan&layout=compact" alt="pankajlochan" /></p>
 
 My name is Pankaj, I'm a Student & front-end dev focusing on Javascript and using MERN stack.
 
