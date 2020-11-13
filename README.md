@@ -55,6 +55,6 @@ My name is Pankaj, I'm a Student & front-end dev focusing on Javascript and usin
 
 ### Get in touch with me...
 
-[<img src='https://image.flaticon.com/icons/svg/2965/2965306.svg' width='32' title='Email Me!'>](mailto://pankajlochanpanda@outlook.com)
+[<img src='https://img.stackshare.io/service/12688/0gjKiHmL_400x400.png' width='32' title='Email Me!'>](mailto://pankajlochanpanda@outlook.com)
 [<img src='https://image.flaticon.com/icons/svg/1409/1409937.svg' width='32' title='DM Me!'>](https://twitter.com/pankaj_plp)
 
