@@ -37,7 +37,7 @@ My name is Pankaj, I'm a Student & front-end dev focusing on Javascript and usin
   <img src='https://img.stackshare.io/service/683/sBsvBbjY.png' width='32' title='Github Pages'>
   <img src='https://img.stackshare.io/service/64/cU74ahCn_400x400.jpg' width='32' title='Google Analytics'>
   <img src='https://img.stackshare.io/service/3244/1_Mr1Fy00XjPGNf1Kkp_hWtw_2x.png' width='32' title='Font Awesome'>
-  <img src='https://img.stackshare.io/service/2652/ZWREQYdH_400x400.jpg' width='32' title='Google Fonts'>
+  <img src='https://img.stackshare.io/service/2652/default_807a8795f01fb7baf530cbd7909552eb9d14094a.jpg' width='32' title='Google Fonts'>
   <img src='https://img.stackshare.io/service/1046/git.png' width='32' title='Git'>
   <img src='https://img.stackshare.io/service/27/sBsvBbjY.png' width='32' title='Github'>
   <img src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png' width='32' title='NPM'>
