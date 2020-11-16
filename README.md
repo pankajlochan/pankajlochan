@@ -8,7 +8,7 @@
 
 My name is Pankaj, I'm a Student & front-end dev focusing on Javascript and using MERN stack.
 
-- 🔭 I’m currently working on something so much cool :wink:
+- 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning React, Redux
 - 💬 Ask me about anything related to Javascript/React/Express/Node/Other things are also acceptable
 - 📫 How to reach me: [@pankaj_plp](https://twitter.com/pankaj_plp)
