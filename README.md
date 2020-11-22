@@ -6,7 +6,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajlochan&layout=compact" alt="pankajlochan" /></p>
 
-My name is Pankaj, I'm a Student & front-end dev focusing on Javascript and using MERN stack.
+My name is Pankaj, I'm a Student & front-end dev focusing on Javascript, using MERN stack.
 
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning React, Redux & some asynchronous Javascript
