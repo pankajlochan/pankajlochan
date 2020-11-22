@@ -24,27 +24,18 @@ My name is Pankaj, I'm a Student & front-end dev focusing on Javascript and usin
 
 </p>
 
-### Tools I'm Using...
+### Languages and Tools:
 
-<p>
-  <img src='https://img.stackshare.io/service/1171/jCR2zNJV.png' width='32' title='Sass'>
-  <img src='https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg' width='32' title='JQuery'>
-  <img src='https://img.stackshare.io/service/133/3wgIDj3j.png' width='32' title='Heroku'>
-  <img src='https://img.stackshare.io/service/1161/vI0ZZlhZ_400x400.png' width='32' title='Socket.IO'>
-  <img src='https://img.stackshare.io/service/1163/hashtag.png' width='32' title='ExpressJS'>
-  <img src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' width='32' title='React'>
-  <img src='https://img.stackshare.io/service/1030/leaf-360x360.png' width='32' title='MongoDB'>
-  <img src='https://img.stackshare.io/service/1231/0TXzZU7W_400x400.jpg' width='32' title='Mongoose'>
-  <img src='https://img.stackshare.io/service/683/sBsvBbjY.png' width='32' title='Github Pages'>
-  <img src='https://img.stackshare.io/service/64/cU74ahCn_400x400.jpg' width='32' title='Google Analytics'>
-  <img src='https://img.stackshare.io/service/3244/1_Mr1Fy00XjPGNf1Kkp_hWtw_2x.png' width='32' title='Font Awesome'>
-  <img src='https://img.stackshare.io/service/2652/default_807a8795f01fb7baf530cbd7909552eb9d14094a.jpg' width='32' title='Google Fonts'>
-  <img src='https://img.stackshare.io/service/1046/git.png' width='32' title='Git'>
-  <img src='https://img.stackshare.io/service/27/sBsvBbjY.png' width='32' title='Github'>
-  <img src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png' width='32' title='NPM'>
-  <img src='https://img.stackshare.io/service/7618/bHjpwZem_400x400.png' width='32' title='Vercel'>
-  <img src='https://img.stackshare.io/service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg' width='32' title='Netlify'>
-</p>
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTMLcssplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][HTMLcssplaylist]
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][HTMLcssplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][webdevplaylist]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 ### IDEs...
 
