@@ -10,7 +10,7 @@ My name is Pankaj, I'm a Student & front-end dev focusing on Javascript, using M
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning React, Redux & some asynchronous Javascript.
-- 💬 Ask me about anything related to Javascript/ Reactjs/ Express/ Nodejs/ other things are also acceptable.
+- 💬 Ask me about anything related to Javascript/ React/ Nodejs.
 - 📫 How to reach me: [@pankaj_plp](https://twitter.com/pankaj_plp).
 
 ### Languages and Tools:
