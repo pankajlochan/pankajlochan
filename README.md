@@ -1,4 +1,4 @@
-### <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Pankajlochan Panda</h1>
+### <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Pankaj</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajlochan" alt="pankajlochan" /> </p>
 
